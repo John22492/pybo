@@ -7,8 +7,6 @@ logger = logging.getLogger('pybo')
 
 def index(request):
     logger.info("INFO 레벨로 출력")
-
-def index(request):
     """
     pybo 목록 출력
     """
